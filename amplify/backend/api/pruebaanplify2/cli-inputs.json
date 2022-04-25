@@ -1,0 +1,12 @@
+{
+  "version": 1,
+  "serviceConfiguration": {
+    "apiName": "pruebaanplify2",
+    "serviceName": "AppSync",
+    "gqlSchemaPath": "C:\\Users\\juan.bossio\\pruebaanplify2\\amplify\\backend\\api\\pruebaanplify2\\schema.graphql",
+    "defaultAuthType": {
+      "mode": "AMAZON_COGNITO_USER_POOLS",
+      "cognitoUserPoolId": "authpruebaanplify2ccc7dbd0"
+    }
+  }
+}
